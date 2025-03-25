@@ -33,5 +33,12 @@ int main() {
 	 case 5:
             printf("You selected Option 5.\n");
             break;
+	    default:
+            printf("Invalid choice! Please select a number between 1 and 5.\n");
+            break;
+    }
+
+    return 0;
+}
 
                   
