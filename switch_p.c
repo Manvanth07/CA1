@@ -30,5 +30,8 @@ int main() {
          case 4:
             printf("You selected Option 4.\n");
             break;
+	 case 5:
+            printf("You selected Option 5.\n");
+            break;
 
                   
